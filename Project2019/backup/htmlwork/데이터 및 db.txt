@@ -1,0 +1,19 @@
+DB구상
+
+대상별 정책(청년, 여성, 중장년, 장애인, 외국인)
+http://www.moel.go.kr/policy/policyinfo/young/list11.do
+
+대상별 정책 컬럼(대상코드, 정책명, 사업목적, 사업내용, 지원수준, 사업추진체(지원절차), 문의처)
+
+대상코드는 청년 Y0001, 여성 W0001 이런식 ...)
+
+
+
+
+
+지역별 정책 https://www.youthcenter.go.kr/jynEmpSptNew/jynEmpSptGuide.do?pageIndex=1&currentPage=1&sortField=undefined&setZzimBusiId=&bizId=201905150033&plcySel=&chargerOrgCdSel=L031&sortField2=exprRnkn&higdBlowAccrYnSel=Y&hiscEnrlYnSel=Y&hiscGrdnPrerYnSel=Y&higdAccrYnSel=Y&univEnrlYnSel=Y&univGrdnAccrYnSel=Y&drAccrYnSel=Y&majrSglSersYnSel=Y&majrSocySersYnSel=Y&majrBsflSersYnSel=Y&majrNtssSersYnSel=Y&majrEngrSersYnSel=Y&majrEnspSersYnSel=Y&splzRlmSmpzEmpmYnSel=Y&splzRlmFmleYnSel=Y&splzRlmLigYnSel=Y&splzRlmDspnYnSel=Y&splzRlmSdrYnSel=Y&splzRlmFrmlYnSel=Y&empnHffcYnSel=Y&empyBsmgYnSel=Y&empmUnpnYnSel=Y&scroll=&btnSearchTxt=&bizTycd=PLCYTP010001&bizTycd=PLCYTP010002&bizTycd=PLCYTP010003&bizTycd=PLCYTP010004&chargerOrgCd0=L031&srchAge=&higdBlowAccrYn=on&hiscEnrlYn=on&hiscGrdnPrerYn=on&higdAccrYn=on&univEnrlYn=on&univGrdnAccrYn=on&drAccrYn=on&majrSglSersYn=on&majrSocySersYn=on&majrBsflSersYn=on&majrNtssSersYn=on&majrEngrSersYn=on&majrEnspSersYn=on&splzRlmSmpzEmpmYn=on&splzRlmFmleYn=on&splzRlmLigYn=on&splzRlmDspnYn=on&splzRlmSdrYn=on&splzRlmFrmlYn=on&empnHffcYn=on&empyBsmgYn=on&empmUnpnYn=on
+
+
+지역별 정책 컬럼(지역코드, 정책명, 참여대상, 지원내용, 운영기간, 신청절차, 참여방법, 담당기관, 조회수)
+
+지역별 정책 게시판 td(게시글번호, 정책명, 운영기간, 조회수)

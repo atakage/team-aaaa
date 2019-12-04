@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+
+    <style>
+    
+    table{
+
+
+
+
+border-collapse: collapse;   /* table을 표시할 때 table의 바깥쪽 라인과 각 컬럼의 라인간 간격을 없애고자 할 때 */
+
+
+border-spacing: 0;      /* 표를 실선모양으로 외부 라인 설정 */
+
+width: 100%;
+
+border:1px solid blue;
+
+    }
+
+
+    table tr{
+
+
+        border:1px dashed red;
+
+
+
+    }
+
+    table tr:hover{
+
+
+background-color: gray;
+cursor: pointer;
+
+
+    }
+
+    </style>
+ 
+</head>
+<body>
+    
+
+    <table border="1">
+
+        <tr>
+
+            <td>번호</td>
+            <td>이름</td>
+            <td>학과</td>
+
+        </tr>
+
+        <tr>
+
+            <td>001</td>
+            <td>홍길동</td>
+            <td>정보통신과</td>
+
+        </tr>
+
+        <tr>
+
+            <td>002</td>
+            <td>성춘향</td>
+            <td>법학과</td>
+            <td rowspan="3">3</td>
+
+        </tr>
+
+        <tr>
+
+            <td>003</td>
+            <td>임옹ㄹㅇ</td>
+            <td>정치외교학과</td>
+            <td rowspan="3">3</td>
+
+        </tr>
+
+        <tr>
+
+            <td colspan="2"> 002</td>
+            
+
+        </tr>
+
+        <tr>
+
+            <td colspan="3"> 003</td>
+            
+
+        </tr>
+
+        <tr>
+
+            <td colspan="4"> 004</td>
+            
+
+        </tr>
+
+        <tr>
+
+            <td colspan="5"> 005</td>
+            
+
+        </tr>
+
+        <tr>
+
+         <td colspan="4">
+
+            <table>
+
+                <tr>
+
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>4</td>
+                    <td>5</td>
+
+
+                </tr>
+
+
+            </table>
+
+            </td>
+            
+
+        </tr>
+
+
+
+
+
+    </table>
+
+
+</body>
+</html>

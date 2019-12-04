@@ -1,0 +1,27 @@
+
+.footerUL{
+    list-style: none;
+    display: flex;
+    width: 100%;
+    border-top: 1px solid gray;
+    margin-top: 10%;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.footerUL a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 13px;
+
+    margin-left: 180px;
+
+}
+
+
+.footerUL a:hover{
+    color: darkseagreen;
+}

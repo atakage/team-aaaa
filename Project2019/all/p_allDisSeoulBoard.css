@@ -1,0 +1,83 @@
+.content_title{
+
+    border-bottom: 1px solid gray;
+    float: left;
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 8%;
+    padding-bottom: 5px;
+
+} 
+
+
+.content_title a{
+
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+table{
+    float: left;
+    text-align: center;
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 8%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    
+
+}
+
+
+table td{
+   
+    font-size: 13px;
+    padding: 1%;
+    border-bottom: 1px solid gray;
+    
+}
+
+table tr:hover{
+
+    background: rgb(221, 221, 221);
+}
+
+.tableNumber{
+    width: 50px;
+}
+
+.tablePTitle{
+    width:320px;
+}
+
+.tableRange{
+    width: 170px;
+}
+
+.tableTop td{
+
+    background:rgb(204, 204, 204);
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+   
+}
+
+table a{
+    display: block;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+
+}
+
+.searchValForm{
+    float: right;
+    margin-top: 5%;
+    margin-right: 32%;
+    
+}
+
+
